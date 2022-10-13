@@ -179,7 +179,7 @@
 }
 
 .price__item:nth-child(3) .price__item-center {
-  margin-bottom: 20px;
+  margin-bottom: -5px;
 }
 
 @media screen and (max-width: 1160px) {
@@ -227,10 +227,10 @@
     font-size: 12px;
   }
   .price__item-center {
-    margin-bottom: 108px;
+    margin-bottom: 70px;
   }
   .price__item:nth-child(2) .price__item-center {
-    margin-bottom: 73px;
+    margin-bottom: 50px;
   }
   .price__item .price__list-item {
     margin-bottom: 14px;
